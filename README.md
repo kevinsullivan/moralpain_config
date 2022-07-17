@@ -32,7 +32,7 @@ ghcr.io/kevinsullivan/moralpain_config:main
 
 ## Pull image from DockerHub
 
-To pull a copy of the image to your local host machine, run:
+To pull a copy of the image to your local host machine, do this:
 
 ```sh
 docker pull kevinsullivan/moralpain
@@ -70,7 +70,7 @@ To stop a container from a terminal on your host machine, do this:
 docker stop %container_name%
 ```
 
-To stop a running image from a terminal into the container, exit the terminal process:
+To stop a running image from a terminal into the container, and exit the terminal process, do this:
 
 ``` sh
 exit
